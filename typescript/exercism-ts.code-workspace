@@ -1,0 +1,212 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "binary-search",
+      "path": "binary-search"
+    },
+    {
+      "name": "matrix",
+      "path": "matrix"
+    },
+    {
+      "name": "pangram",
+      "path": "pangram"
+    },
+    {
+      "name": "dnd-character",
+      "path": "dnd-character"
+    },
+    {
+      "name": "grade-school",
+      "path": "grade-school"
+    },
+    {
+      "name": "robot-name",
+      "path": "robot-name"
+    },
+    {
+      "name": "circular-buffer",
+      "path": "circular-buffer"
+    },
+    {
+      "name": "raindrops",
+      "path": "raindrops"
+    },
+    {
+      "name": "isogram",
+      "path": "isogram"
+    },
+    {
+      "name": "luhn",
+      "path": "luhn"
+    },
+    {
+      "name": "leap",
+      "path": "leap"
+    },
+    {
+      "name": "resistor-color-trio",
+      "path": "resistor-color-trio"
+    },
+    {
+      "name": "triangle",
+      "path": "triangle"
+    },
+    {
+      "name": "sum-of-multiples",
+      "path": "sum-of-multiples"
+    },
+    {
+      "name": "hello-world",
+      "path": "hello-world"
+    },
+    {
+      "name": "rational-numbers",
+      "path": "rational-numbers"
+    },
+    {
+      "name": "reverse-string",
+      "path": "reverse-string"
+    },
+    {
+      "name": "custom-set",
+      "path": "custom-set"
+    },
+    {
+      "name": "resistor-color",
+      "path": "resistor-color"
+    },
+    {
+      "name": "queen-attack",
+      "path": "queen-attack"
+    },
+    {
+      "name": "transpose",
+      "path": "transpose"
+    },
+    {
+      "name": "list-ops",
+      "path": "list-ops"
+    },
+    {
+      "name": "accumulate",
+      "path": "accumulate"
+    },
+    {
+      "name": "etl",
+      "path": "etl"
+    },
+    {
+      "name": "diffie-hellman",
+      "path": "diffie-hellman"
+    },
+    {
+      "name": "run-length-encoding",
+      "path": "run-length-encoding"
+    },
+    {
+      "name": "resistor-color-duo",
+      "path": "resistor-color-duo"
+    },
+    {
+      "name": "bob",
+      "path": "bob"
+    },
+    {
+      "name": "phone-number",
+      "path": "phone-number"
+    },
+    {
+      "name": "rna-transcription",
+      "path": "rna-transcription"
+    },
+    {
+      "name": "two-fer",
+      "path": "two-fer"
+    },
+    {
+      "name": "strain",
+      "path": "strain"
+    },
+    {
+      "name": "atbash-cipher",
+      "path": "atbash-cipher"
+    },
+    {
+      "name": "space-age",
+      "path": "space-age"
+    },
+    {
+      "name": "say",
+      "path": "say"
+    },
+    {
+      "name": "perfect-numbers",
+      "path": "perfect-numbers"
+    },
+    {
+      "name": "armstrong-numbers",
+      "path": "armstrong-numbers"
+    },
+    {
+      "name": "linked-list",
+      "path": "linked-list"
+    },
+    {
+      "name": "isbn-verifier",
+      "path": "isbn-verifier"
+    },
+    {
+      "name": "difference-of-squares",
+      "path": "difference-of-squares"
+    }
+  ],
+  "settings": {
+    "jest.disabledWorkspaceFolders": [
+      "typescript",
+      "binary-search",
+      "matrix",
+      "pangram",
+      "dnd-character",
+      "grade-school",
+      "robot-name",
+      "circular-buffer",
+      "raindrops",
+      "isogram",
+      "luhn",
+      "leap",
+      "resistor-color-trio",
+      "triangle",
+      "sum-of-multiples",
+      "hello-world",
+      "rational-numbers",
+      "reverse-string",
+      "custom-set",
+      "resistor-color",
+      "queen-attack",
+      "transpose",
+      "list-ops",
+      "accumulate",
+      "etl",
+      "diffie-hellman",
+      "run-length-encoding",
+      "resistor-color-duo",
+      "bob",
+      "phone-number",
+      "rna-transcription",
+      "two-fer",
+      "strain",
+      "atbash-cipher",
+      "space-age",
+      "say",
+      "perfect-numbers",
+      "armstrong-numbers",
+      "linked-list",
+      "isbn-verifier",
+      "difference-of-squares"
+    ]
+  }
+}
